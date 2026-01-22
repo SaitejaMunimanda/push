@@ -6,7 +6,7 @@ public class ATMPIN {
         int pin = 1234;
         //int enter = 2345;
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter ATMPIN : ");
+        //System.out.print("Enter ATMPIN : ");
         int enter = scanner.nextInt();
 
         try {
